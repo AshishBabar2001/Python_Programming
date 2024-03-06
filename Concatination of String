@@ -1,0 +1,22 @@
+concatination Means Joining Two string Together
+
+>>> 'Hello'
+'Hello'
+>>> 8
+8
+>>> '8'
+'8'
+>>> type(8)
+<class 'int'>
+>>> type('8')
+<class 'str'>
+>>> "Hello" + "World"
+'HelloWorld'
+>>> "Hello" + " World"
+'Hello World'
+>>> 10+10
+20
+>>> "10"+"10"
+'1010'
+>>> "Hello " * 5
+'Hello Hello Hello Hello Hello '
