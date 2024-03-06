@@ -1,0 +1,8 @@
+>>> print("He' is a Good guy")
+He' is a Good guy
+>>> print("He's a Good guy")
+He's a Good guy
+>>> print("This is the \"only\" way to go")
+This is the "only" way to go
+>>>
+
