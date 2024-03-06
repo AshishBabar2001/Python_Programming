@@ -1,0 +1,21 @@
+>>> 4
+4
+>>> type(4)
+<class 'int'>
+>>> 4.3
+4.3
+>>> type(4.3)
+<class 'float'>
+>>> "Hello"
+'Hello'
+>>> type("Hello")
+<class 'str'>
+>>> True
+True
+>>> type(True)
+<class 'bool'>
+>>> 5+9j
+(5+9j)
+>>> type(5+9j)
+<class 'complex'>
+>>>
