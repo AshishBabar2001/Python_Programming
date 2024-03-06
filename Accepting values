@@ -1,0 +1,14 @@
+>>> input()
+5
+'5'
+>>> input('Enter your name')
+Enter your nameashish
+'ashish'
+>>> input('Enter your name : ')
+Enter your name : Ashish
+'Ashish'
+>>> i = input('Please Enter a Name : ')
+Please Enter a Name : Ashish
+>>> print(i)
+Ashish
+>>>
